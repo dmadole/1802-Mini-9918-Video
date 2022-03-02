@@ -13,5 +13,7 @@ Gerber files for the PCBs and PDF schematics can be found in [Releases](https://
 
 BOMS and any applicable errata or other notes can be found in [notes](https://github.com/dmadole/1802-Mini-9918-Video/tree/main/notes).
 
+For availability of kits and bare PCBs please see http://madole.net/1802/mini/kits
+
 ![1802/Mini 9918 Video Front](https://github.com/dmadole/1802-Mini-9918-Video/blob/main/photos/1802-Mini-9918-Video-Rev-A-Assembled-Front.jpg)
  
