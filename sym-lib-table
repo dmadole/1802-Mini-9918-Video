@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 1802-mini)(type Legacy)(uri ${KIPRJMOD}/symbols/1802-mini.lib)(options "")(descr ""))
+  (lib (name TMS9929_RGB_Adapter-rescue)(type Legacy)(uri E:/Elf/1802-Mini/TMS9929_RGB_Adapter-rescue.lib)(options "")(descr ""))
+)
