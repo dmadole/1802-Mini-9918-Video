@@ -17,3 +17,4 @@ For availability of kits and bare PCBs please see http://madole.net/1802/mini/ki
 
 ![1802/Mini 9918 Video Front](https://github.com/dmadole/1802-Mini-9918-Video/blob/main/photos/1802-Mini-9918-Video-Rev-A-Assembled-Front.jpg)
  
+(Note that this photo is of a revision A board and address jumpers are slightly different than revision B boards. Do not use this photo for reference for jumpers.)
