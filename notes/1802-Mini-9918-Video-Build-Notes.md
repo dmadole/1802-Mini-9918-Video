@@ -20,12 +20,6 @@ The two jumpers marked 9X2X VDP, should be installed when using a VDP chip with 
 
 The two jumpers marked VDP TYPE should be installed on the 99XX side when using 9918/9928/9929 VDP chips, or on the 91XX side when using 9118/9128/9129 VDP chips.
 
-## Interrupts
-
-The serial interface is capable of operating interrupt-driven and two modes are supported. The INTERRUPT jumped can be used to select whether interrupts are generated for all events recognized by the 1854 UART, or for receive character events only. Removing this jumper completely will disable interrupts.
-
-The BIOS drivers do not support interrupt-driven operation. The standard software driver supports interrupts for receive characters only; if using this driver, either jumper setting will work, but the RX setting that only generates receive interrupts will produce less processor overhead and so it is recommended.
-
 ## Addressing
 
 The video interface occupies two I/O ports which are set by the address jumpers. The standard configuration is for addresses 1 and 5 which are selected by setting  the two 4-1 jumpers to 1, the 1/4-0 jumper to 1/4, and the 2-0 jumper to 0. Here are all the address options:
